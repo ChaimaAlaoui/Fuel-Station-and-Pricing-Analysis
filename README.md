@@ -2,7 +2,7 @@
 
 This project focuses on analyzing fuel station data in the Île-de-France region to help "Translogis," a transportation company based in Paris, optimize fuel costs. Using Power BI, DAX, and SQL, we identify the closest fuel stations with the lowest prices to improve cost management for the company's truck fleet. The analysis aims to support better decision-making regarding refueling strategies.
 
-<img width="596" alt="dash fr fuel" src="https://github.com/user-attachments/assets/bf4c8964-28c7-4db7-bdda-a153b8e3bff7">
+<img width="586" alt="dash fr fuel" src="https://github.com/user-attachments/assets/6adf3c48-9bb1-4978-8dce-9c9efddcc4ce">
 
 
 ## Report Link : 
