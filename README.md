@@ -7,7 +7,7 @@ This project focuses on analyzing fuel station data in the Île-de-France region
 
 ## Report Link : 
 
-Here’s the link to view the full interactive report on Power BI:[View Report](https://app.powerbi.com/groups/me/reports/2504a25e-339d-48a6-92ee-dac153b51dd2/c29599463420397b2f5f?experience=power-bi
+Here’s the link to view the full interactive report on Power BI: [View Report](https://app.powerbi.com/groups/me/reports/2504a25e-339d-48a6-92ee-dac153b51dd2/c29599463420397b2f5f?experience=power-bi
 )
 
 
