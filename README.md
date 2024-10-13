@@ -80,7 +80,6 @@ This project aims to identify the most cost-effective fuel stations for the "Tra
            BLANK()
        )
 
-
 - **Creating a Fuel Types Table**
    ```DAX
   FuelTypes = DATATABLE(
